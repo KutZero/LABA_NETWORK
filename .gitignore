@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.Trash-0/
+__pycache__/
+.idea
+.vs
+.pytest_cache
+*.h5
+*.keras
+
