@@ -1,0 +1,10 @@
+tensorflow
+matplotlib 
+pydot 
+graphviz 
+IPython 
+pandas 
+jupyterlab
+jupyterlab-execute-time
+jupyterlab-night
+onenpyxl
