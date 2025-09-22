@@ -8,3 +8,4 @@ jupyterlab
 jupyterlab-execute-time
 jupyterlab-night
 onenpyxl
+tqdm

@@ -6,4 +6,6 @@ __pycache__/
 .pytest_cache
 *.h5
 *.keras
+datasets
+labeled_dataset
 
